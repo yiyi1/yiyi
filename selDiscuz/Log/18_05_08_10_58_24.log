@@ -1,0 +1,27 @@
+[2018-05-08 10:58:29] [INFO] 启动chromedriver
+[2018-05-08 10:58:36] [INFO] 获得网址http://192.168.102.23/upload
+[2018-05-08 10:58:36] [INFO] 属性的值为： id: ls_username
+[2018-05-08 10:58:36] [ERROR] 成功定位到该元素 id: ls_username
+[2018-05-08 10:58:36] [INFO] 输入duanjiangtao成功
+[2018-05-08 10:58:36] [INFO] 属性的值为： id: ls_password
+[2018-05-08 10:58:36] [ERROR] 成功定位到该元素 id: ls_password
+[2018-05-08 10:58:36] [INFO] 输入duanjiangtao成功
+[2018-05-08 10:58:37] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 10:58:37] [ERROR] 成功定位到该元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 10:58:37] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 10:58:37] [INFO] 点击 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button成功
+[2018-05-08 10:58:43] [INFO] 属性的值为： link text: 默认版块
+[2018-05-08 10:58:43] [ERROR] 成功定位到该元素 link text: 默认版块
+[2018-05-08 10:58:48] [INFO] 属性的值为： link text: 默认版块
+[2018-05-08 10:58:48] [INFO] 点击 link text: 默认版块成功
+[2018-05-08 10:58:48] [INFO] 属性的值为： id: subject
+[2018-05-08 10:58:48] [ERROR] 成功定位到该元素 id: subject
+[2018-05-08 10:58:49] [INFO] 输入再见，过去成功
+[2018-05-08 10:58:49] [INFO] 属性的值为： xpath: //*[@id="fastpostmessage"]
+[2018-05-08 10:58:49] [ERROR] 成功定位到该元素 xpath: //*[@id="fastpostmessage"]
+[2018-05-08 10:58:49] [INFO] 输入过去的日子再美好，也只是曾经成功
+[2018-05-08 10:58:49] [INFO] 属性的值为： id: fastpostsubmit
+[2018-05-08 10:58:49] [ERROR] 成功定位到该元素 id: fastpostsubmit
+[2018-05-08 10:58:49] [INFO] 属性的值为： id: fastpostsubmit
+[2018-05-08 10:58:49] [INFO] 点击 id: fastpostsubmit成功
+[2018-05-08 10:58:51] [INFO] driver成功关闭

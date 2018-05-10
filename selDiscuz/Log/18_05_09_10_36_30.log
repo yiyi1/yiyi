@@ -1,0 +1,36 @@
+[2018-05-09 10:36:44] [INFO] 启动chromedriver
+[2018-05-09 10:36:51] [INFO] 获得网址:http://192.168.102.29/upload
+[2018-05-09 10:36:51] [INFO] 属性的值为： id: ls_username
+[2018-05-09 10:36:51] [ERROR] 成功定位到该元素: id: ls_username
+[2018-05-09 10:36:51] [INFO] 输入:duanjiangtao成功true
+[2018-05-09 10:36:51] [INFO] 属性的值为： id: ls_password
+[2018-05-09 10:36:51] [ERROR] 成功定位到该元素: id: ls_password
+[2018-05-09 10:36:51] [INFO] 输入:duanjiangtao成功true
+[2018-05-09 10:36:51] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 10:36:51] [ERROR] 成功定位到该元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 10:36:51] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 10:36:51] [INFO] 点击 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button成功
+[2018-05-09 10:36:58] [INFO] 属性的值为： id: scbar_txt
+[2018-05-09 10:36:58] [ERROR] 成功定位到该元素: id: scbar_txt
+[2018-05-09 10:36:58] [INFO] 输入:haoTest成功true
+[2018-05-09 10:36:58] [INFO] 属性的值为： id: scbar_btn
+[2018-05-09 10:36:58] [ERROR] 成功定位到该元素: id: scbar_btn
+[2018-05-09 10:36:58] [INFO] 属性的值为： id: scbar_btn
+[2018-05-09 10:36:58] [INFO] 点击 id: scbar_btn成功
+[2018-05-09 10:37:01] [INFO] 获得当前句柄：CDwindow-EB61F3E089CF9AA44A6647B99E0312E4
+[2018-05-09 10:37:01] [INFO] 获得当前句柄：CDwindow-D090691DA68493AFE11DB5E6BE8B8106
+[2018-05-09 10:37:02] [INFO] 属性的值为： xpath: //*[@id="19"]/h3/a/strong/font
+[2018-05-09 10:37:02] [ERROR] 成功定位到该元素: xpath: //*[@id="19"]/h3/a/strong/font
+[2018-05-09 10:37:02] [INFO] 属性的值为： xpath: //*[@id="19"]/h3/a/strong/font
+[2018-05-09 10:37:02] [INFO] 点击 xpath: //*[@id="19"]/h3/a/strong/font成功
+[2018-05-09 10:37:02] [INFO] 获得当前句柄：CDwindow-EB61F3E089CF9AA44A6647B99E0312E4
+[2018-05-09 10:37:02] [INFO] 获得当前句柄：CDwindow-D090691DA68493AFE11DB5E6BE8B8106
+[2018-05-09 10:37:02] [INFO] 获得当前句柄：CDwindow-6459D013F1E1E8E98E2812C1911206C5
+[2018-05-09 10:37:09] [INFO] 属性的值为： id: thread_subject
+[2018-05-09 10:37:09] [ERROR] 成功定位到该元素: id: thread_subject
+[2018-05-09 10:37:09] [INFO] 文本---haoTest与预期文本---haoTest一致
+[2018-05-09 10:37:09] [INFO] 属性的值为： link text: 退出
+[2018-05-09 10:37:09] [ERROR] 成功定位到该元素: link text: 退出
+[2018-05-09 10:37:18] [INFO] 属性的值为： link text: 退出
+[2018-05-09 10:37:18] [INFO] 点击 link text: 退出成功
+[2018-05-09 10:37:18] [INFO] driver成功关闭

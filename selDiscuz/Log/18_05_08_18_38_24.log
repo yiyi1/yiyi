@@ -1,0 +1,25 @@
+[2018-05-08 18:38:28] [INFO] 启动chromedriver
+[2018-05-08 18:38:34] [INFO] 获得网址:http://192.168.102.23/upload
+[2018-05-08 18:38:34] [INFO] 属性的值为： id: ls_username
+[2018-05-08 18:38:34] [ERROR] 成功定位到该元素: id: ls_username
+[2018-05-08 18:38:34] [INFO] 输入:admin成功true
+[2018-05-08 18:38:34] [INFO] 属性的值为： id: ls_password
+[2018-05-08 18:38:34] [ERROR] 成功定位到该元素: id: ls_password
+[2018-05-08 18:38:35] [INFO] 输入:admin成功true
+[2018-05-08 18:38:35] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 18:38:35] [ERROR] 成功定位到该元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 18:38:35] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 18:38:35] [INFO] 点击 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button成功
+[2018-05-08 18:38:42] [INFO] 属性的值为： link text: 管理中心
+[2018-05-08 18:38:42] [ERROR] 成功定位到该元素: link text: 管理中心
+[2018-05-08 18:38:42] [INFO] 属性的值为： link text: 管理中心
+[2018-05-08 18:38:42] [INFO] 点击 link text: 管理中心成功
+[2018-05-08 18:38:54] [INFO] 获得当前句柄：CDwindow-46D252E20EBA7535139934EC061E7443
+[2018-05-08 18:38:54] [INFO] 获得当前句柄：CDwindow-9A707B30D66176C68CADD95A4EEC7227
+[2018-05-08 18:38:55] [INFO] 属性的值为： link text: 论坛
+[2018-05-08 18:38:55] [ERROR] 成功定位到该元素: link text: 论坛
+[2018-05-08 18:38:55] [INFO] 属性的值为： link text: 论坛
+[2018-05-08 18:38:55] [INFO] 点击 link text: 论坛成功
+[2018-05-08 18:38:59] [INFO] 属性的值为： link text: 论坛
+[2018-05-08 18:38:59] [ERROR] 没有定位到该元素: link text: 论坛
+[2018-05-08 18:39:00] [INFO] driver成功关闭

@@ -1,0 +1,33 @@
+[2018-05-08 12:13:25] [INFO] 启动chromedriver
+[2018-05-08 12:13:31] [INFO] 获得网址:http://192.168.102.23/upload
+[2018-05-08 12:13:31] [INFO] 属性的值为： id: ls_username
+[2018-05-08 12:13:31] [ERROR] 成功定位到该元素: id: ls_username
+[2018-05-08 12:13:32] [INFO] 输入:duanjiangtao成功true
+[2018-05-08 12:13:32] [INFO] 属性的值为： id: ls_password
+[2018-05-08 12:13:32] [ERROR] 成功定位到该元素: id: ls_password
+[2018-05-08 12:13:32] [INFO] 输入:duanjiangtao成功true
+[2018-05-08 12:13:32] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 12:13:32] [ERROR] 成功定位到该元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 12:13:32] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 12:13:32] [INFO] 点击 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button成功
+[2018-05-08 12:14:02] [INFO] 属性的值为： link text: 默认版块
+[2018-05-08 12:14:02] [ERROR] 成功定位到该元素: link text: 默认版块
+[2018-05-08 12:14:08] [INFO] 属性的值为： link text: 默认版块
+[2018-05-08 12:14:08] [INFO] 点击 link text: 默认版块成功
+[2018-05-08 12:14:08] [INFO] 属性的值为： link text: 再见，过去
+[2018-05-08 12:14:08] [ERROR] 成功定位到该元素: link text: 再见，过去
+[2018-05-08 12:14:14] [INFO] 属性的值为： link text: 再见，过去
+[2018-05-08 12:14:14] [INFO] 点击 link text: 再见，过去成功
+[2018-05-08 12:14:14] [INFO] 属性的值为： xpath: //*[@id="fastpostmessage"]
+[2018-05-08 12:14:14] [ERROR] 成功定位到该元素: xpath: //*[@id="fastpostmessage"]
+[2018-05-08 12:14:14] [INFO] 输入:对，向往美好的未来成功true
+[2018-05-08 12:14:14] [INFO] 属性的值为： id: fastpostsubmit
+[2018-05-08 12:14:14] [ERROR] 成功定位到该元素: id: fastpostsubmit
+[2018-05-08 12:14:14] [INFO] 属性的值为： id: fastpostsubmit
+[2018-05-08 12:14:14] [INFO] 点击 id: fastpostsubmit成功
+[2018-05-08 12:14:14] [INFO] 属性的值为： link text: 退出
+[2018-05-08 12:14:14] [ERROR] 成功定位到该元素: link text: 退出
+[2018-05-08 12:14:23] [INFO] 属性的值为： link text: 退出
+[2018-05-08 12:14:23] [INFO] 点击 link text: 退出成功
+[2018-05-08 12:14:23] [INFO] 退出登录成功
+[2018-05-08 12:14:23] [INFO] driver成功关闭

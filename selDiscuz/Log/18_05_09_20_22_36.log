@@ -1,0 +1,52 @@
+[2018-05-09 20:22:44] [INFO] 启动chromedriver
+[2018-05-09 20:22:49] [INFO] 获得网址:http://192.168.102.29/upload
+[2018-05-09 20:22:49] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-09 20:22:49] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-09 20:22:49] [INFO] 属性的值为： id: ls_username
+[2018-05-09 20:22:49] [ERROR] 成功定位到该元素: id: ls_username
+[2018-05-09 20:22:49] [INFO] 输入:duanjiangtao成功true
+[2018-05-09 20:22:49] [INFO] 开始查找元素：By.id: ls_password
+[2018-05-09 20:22:49] [INFO] 找到了元素 [By.id: ls_password]
+[2018-05-09 20:22:49] [INFO] 属性的值为： id: ls_password
+[2018-05-09 20:22:49] [ERROR] 成功定位到该元素: id: ls_password
+[2018-05-09 20:22:49] [INFO] 输入:duanjiangtao成功true
+[2018-05-09 20:22:49] [INFO] 开始查找元素：By.xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 20:22:49] [INFO] 找到了元素 [By.xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 20:22:49] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 20:22:49] [ERROR] 成功定位到该元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 20:22:49] [INFO] 属性的值为： xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 20:22:49] [INFO] 点击 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button成功
+[2018-05-09 20:22:54] [INFO] 开始查找元素：By.id: scbar_txt
+[2018-05-09 20:22:56] [INFO] 找到了元素 [By.id: scbar_txt]
+[2018-05-09 20:22:56] [INFO] 属性的值为： id: scbar_txt
+[2018-05-09 20:22:56] [ERROR] 成功定位到该元素: id: scbar_txt
+[2018-05-09 20:22:56] [INFO] 输入:haoTest成功true
+[2018-05-09 20:22:56] [INFO] 开始查找元素：By.id: scbar_btn
+[2018-05-09 20:22:56] [INFO] 找到了元素 [By.id: scbar_btn]
+[2018-05-09 20:22:56] [INFO] 属性的值为： id: scbar_btn
+[2018-05-09 20:22:56] [ERROR] 成功定位到该元素: id: scbar_btn
+[2018-05-09 20:22:56] [INFO] 属性的值为： id: scbar_btn
+[2018-05-09 20:22:56] [INFO] 点击 id: scbar_btn成功
+[2018-05-09 20:22:56] [INFO] 获得当前句柄：CDwindow-BDFF1433AB1AB4564795FFFFBDA49195
+[2018-05-09 20:22:56] [INFO] 获得当前句柄：CDwindow-5BA3A8006FA0D86099EEBB74ED6096A7
+[2018-05-09 20:22:56] [INFO] 开始查找元素：By.xpath: //*[@id="19"]/h3/a/strong/font
+[2018-05-09 20:23:00] [INFO] 找到了元素 [By.xpath: //*[@id="19"]/h3/a/strong/font]
+[2018-05-09 20:23:00] [INFO] 属性的值为： xpath: //*[@id="19"]/h3/a/strong/font
+[2018-05-09 20:23:00] [ERROR] 成功定位到该元素: xpath: //*[@id="19"]/h3/a/strong/font
+[2018-05-09 20:23:00] [INFO] 属性的值为： xpath: //*[@id="19"]/h3/a/strong/font
+[2018-05-09 20:23:00] [INFO] 点击 xpath: //*[@id="19"]/h3/a/strong/font成功
+[2018-05-09 20:23:00] [INFO] 获得当前句柄：CDwindow-BDFF1433AB1AB4564795FFFFBDA49195
+[2018-05-09 20:23:00] [INFO] 获得当前句柄：CDwindow-5BA3A8006FA0D86099EEBB74ED6096A7
+[2018-05-09 20:23:00] [INFO] 获得当前句柄：CDwindow-F89F7BBFC9C058B0590A36E3A63A61FF
+[2018-05-09 20:23:00] [INFO] 开始查找元素：By.id: thread_subject
+[2018-05-09 20:23:02] [INFO] 找到了元素 [By.id: thread_subject]
+[2018-05-09 20:23:02] [INFO] 属性的值为： id: thread_subject
+[2018-05-09 20:23:02] [ERROR] 成功定位到该元素: id: thread_subject
+[2018-05-09 20:23:02] [INFO] 文本---haoTest与预期文本---haoTest一致
+[2018-05-09 20:23:02] [INFO] 开始查找元素：By.linkText: 退出
+[2018-05-09 20:23:02] [INFO] 找到了元素 [By.linkText: 退出]
+[2018-05-09 20:23:02] [INFO] 属性的值为： link text: 退出
+[2018-05-09 20:23:02] [ERROR] 成功定位到该元素: link text: 退出
+[2018-05-09 20:23:05] [INFO] 属性的值为： link text: 退出
+[2018-05-09 20:23:05] [INFO] 点击 link text: 退出成功
+[2018-05-09 20:23:05] [INFO] driver成功关闭
