@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite>
+    <test name="yi">
+        <classes>
+            <class name="testCase.t1.Discuz1"></class>
+            <class name="testCase.t2.Discuz2"></class>
+            <class name="testCase.t3.Discuz3"></class>
+        </classes>
+    </test>
+</suite>
