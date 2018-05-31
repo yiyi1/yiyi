@@ -32,7 +32,7 @@ public class BasicTestCase {
 
     @AfterClass
     public void teatDown(){
-      //  we.quit();
+        we.quit();
         logger.info("driver成功关闭");
 
     }
