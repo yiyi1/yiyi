@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <suite name="yy">
-     <test name="yiyi">
+  <suite name="testcase">
+     <test name="te">
        <classes>
           <class name="first.First"></class>
        </classes>
