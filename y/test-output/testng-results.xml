@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62" started-at="2018-05-31T05:14:45Z" finished-at="2018-05-31T05:14:46Z">
+  <suite name="Default suite" duration-ms="32" started-at="2018-05-31T06:29:51Z" finished-at="2018-05-31T06:29:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62" started-at="2018-05-31T05:14:45Z" finished-at="2018-05-31T05:14:46Z">
-      <class name="first.Two">
-        <test-method status="PASS" signature="f()[pri:0, instance:first.Two@1fa1d9b]" name="f" duration-ms="31" started-at="2018-05-31T13:14:46Z" finished-at="2018-05-31T13:14:46Z">
+    <test name="Default test" duration-ms="32" started-at="2018-05-31T06:29:51Z" finished-at="2018-05-31T06:29:51Z">
+      <class name="jiekou3.y.Thr">
+        <test-method status="PASS" signature="aa()[pri:0, instance:jiekou3.y.Thr@18355a8]" name="aa" duration-ms="16" started-at="2018-05-31T14:29:51Z" finished-at="2018-05-31T14:29:51Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- first.Two -->
-      <class name="first.First">
-        <test-method status="PASS" signature="f()[pri:0, instance:first.First@3884b2]" name="f" duration-ms="0" started-at="2018-05-31T13:14:46Z" finished-at="2018-05-31T13:14:46Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- first.First -->
+        </test-method> <!-- aa -->
+      </class> <!-- jiekou3.y.Thr -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
